@@ -1,0 +1,8 @@
+name: Hardcorecraft
+version: ${project.version}
+main: aaproj.hardcorecraft.Hardcorecraft
+api-version: 1.16
+prefix: Test
+authors: [ te ]
+description: te
+website: http://google.com
